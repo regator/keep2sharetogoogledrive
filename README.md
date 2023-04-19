@@ -2,6 +2,9 @@
 Download link from Keep2share/K2s.cc to Google Drive
 With the PremiumDownloader.net service you can skip the Keep2share/K2s.cc download limits by generating a premium download link.
 https://premiumdownloader.net/
+K2s download url: https://premiumdownloader.net/product/keep2share-premium/
+<img src="https://premiumdownloader.net/wp-content/uploads/2023/03/key2cc.gif">
+
 No ads
 No signup required
 Ease of use
